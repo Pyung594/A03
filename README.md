@@ -13,3 +13,22 @@
 # Connecting WebStorm to Github
 # 1. In Webstorm, click on the settings button, then preferences, and version control. 
 # 2. After clicking on version control, click on Github and add your account. This will prompt you to login to your Github account and connect it to Webstorm. 
+
+Glossary(definitions provided by GitHub Glossary):
+**Branch** - A parallel version of a repository where you can make changes without affecting the main branch.
+Clone - A local copy of your project that is stored on your computer.
+Commit - A revision or an individual change to a file or set of files.
+Fetch - Adding changes from a remote respository to a local branch without committing them.
+GIT - An open source program for tracking changes in text file.
+Github - A code hosting platform for collaboration and version control.
+Merge - Takes changes from one branch and applies them into another.
+Merge conflict - Occurs when people make different changes to the same line of the same file or when a person edits a file and another deletes a file at the same time.
+Push - To send your committed changes to a remote repository on Github.
+Pull - Fetching in changes and merging them.
+Remote - A version of a repository or branch that is hosted on a server.
+Repository - Contains all of the project files and stores each file's revision history.
+
+# References
+1. Professor Hendela's Powerpoint "IntroToGitHub"
+2. "GitHub Glossary." GitHub Docs, https://docs.github.com/en/get-started/quickstart/github-glossary.
+“GitHub: WebStorm.” WebStorm Help, https://www.jetbrains.com/help/webstorm/github.html.
